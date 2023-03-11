@@ -1,0 +1,15 @@
+C:\Users\ander\workspace\ForcaCSharp\obj\Debug\net6.0\ForcaCSharp.csproj.AssemblyReference.cache
+C:\Users\ander\workspace\ForcaCSharp\obj\Debug\net6.0\ForcaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\workspace\ForcaCSharp\obj\Debug\net6.0\ForcaCSharp.AssemblyInfoInputs.cache
+C:\Users\ander\workspace\ForcaCSharp\obj\Debug\net6.0\ForcaCSharp.AssemblyInfo.cs
+C:\Users\ander\workspace\ForcaCSharp\obj\Debug\net6.0\ForcaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ander\workspace\ForcaCSharp\bin\Debug\net6.0\ForcaCSharp.exe
+C:\Users\ander\workspace\ForcaCSharp\bin\Debug\net6.0\ForcaCSharp.deps.json
+C:\Users\ander\workspace\ForcaCSharp\bin\Debug\net6.0\ForcaCSharp.runtimeconfig.json
+C:\Users\ander\workspace\ForcaCSharp\bin\Debug\net6.0\ForcaCSharp.dll
+C:\Users\ander\workspace\ForcaCSharp\bin\Debug\net6.0\ForcaCSharp.pdb
+C:\Users\ander\workspace\ForcaCSharp\obj\Debug\net6.0\ForcaCSharp.dll
+C:\Users\ander\workspace\ForcaCSharp\obj\Debug\net6.0\refint\ForcaCSharp.dll
+C:\Users\ander\workspace\ForcaCSharp\obj\Debug\net6.0\ForcaCSharp.pdb
+C:\Users\ander\workspace\ForcaCSharp\obj\Debug\net6.0\ForcaCSharp.genruntimeconfig.cache
+C:\Users\ander\workspace\ForcaCSharp\obj\Debug\net6.0\ref\ForcaCSharp.dll
